@@ -1,0 +1,2 @@
+# Virus-Bacteria-Antibiotic-Simulation
+A program designed to simulate a real life experiment of how a population of virus and bacteria or how a population of bacteria and antibiotic would interact if introduced to the same natural environment with realistic factors such as food level, mutation probabilities and reproduction rates. The ultimate goal of this simualtion is to combat Antibiotic resistance developed by bacteria by outlining the charecteristics of a potential virus that can be engineered to counter bacterial mutations that make it resistant.
